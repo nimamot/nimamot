@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I am Nima Motieifard</h1>
 
-<!--
-**nimamot/nimamot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineer | Cognitive Systems @ UBC</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m studying Cognitive Systems (Computation & the Brain) with a minor in Data Science at UBC. 
+Currently building scalable systems and exploring machine learning, distributed systems, and real-world applications of AI.
+
+- 🔭 Currently working on: localization infrastructure + ML/LLM pipelines  
+- 👩‍💻 I like building: full-stack apps, data-driven systems, and automation tools  
+- 🌱 Exploring: ML systems, embeddings, and applied AI  
+- ⚡ Fun fact: I’m interested in both AI research and quantitative finance  
+
+**How to Reach Me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)
