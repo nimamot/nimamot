@@ -94,21 +94,6 @@ You can pin your best repositories below this README, but this section helps fra
 - 🛠️ **Automation Tools**  
   I enjoy creating tools that reduce repetitive work and improve developer or user workflows.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
