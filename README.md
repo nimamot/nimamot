@@ -80,8 +80,6 @@
 
 ## 🌟 Featured Work
 
-You can pin your best repositories below this README, but this section helps frame what you care about:
-
 - 🌍 **Localization Infrastructure**  
   Built systems to support scalable and consistent multilingual experiences.
 
